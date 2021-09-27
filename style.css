@@ -24,3 +24,7 @@ h1{
     width:100%;
     min-width:300px;
 }
+
+video{
+ height:100%;   
+}
